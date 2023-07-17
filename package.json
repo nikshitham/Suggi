@@ -1,0 +1,30 @@
+{
+  "name": "suggi",
+  "version": "1.0.0",
+  "description": "Food Delivery app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikshitham/Suggi.git"
+  },
+  "author": "Nikshitha M Acharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikshitham/Suggi/issues"
+  },
+  "homepage": "https://github.com/nikshitham/Suggi#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-router-dom": "^6.14.1"
+  }
+}
